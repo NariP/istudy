@@ -3,6 +3,9 @@
 # IDE
 .idea
 
+# StoryBook
+.storybook
+
 # dependencies
 /node_modules
 /.pnp
